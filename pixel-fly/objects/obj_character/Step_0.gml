@@ -11,7 +11,8 @@ if (x_axis == 0 && y_axis == 0) {
 	image_speed = 1.5;
 }
 
-
+x = round(x);
+y = round(y);
 
 
 
@@ -33,3 +34,4 @@ function move(_dir,_spd) {
 	x += lengthdir_x(_spd,_dir);
 	y += lengthdir_y(_spd,_dir);
 }
+

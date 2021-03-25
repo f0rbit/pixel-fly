@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"spr_select_arrow","path":"sprites/spr_select_arrow/spr_select_arrow.yy",},"order":2,},
     {"id":{"name":"rm_explore","path":"rooms/rm_explore/rm_explore.yy",},"order":1,},
+    {"id":{"name":"spr_cloud","path":"sprites/spr_cloud/spr_cloud.yy",},"order":10,},
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},"order":0,},
     {"id":{"name":"spr_character_back","path":"sprites/spr_character_back/spr_character_back.yy",},"order":2,},
     {"id":{"name":"spr_grass_single","path":"sprites/spr_grass_single/spr_grass_single.yy",},"order":3,},
@@ -13,10 +14,13 @@
     {"id":{"name":"spr_logo","path":"sprites/spr_logo/spr_logo.yy",},"order":1,},
     {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},"order":1,},
     {"id":{"name":"obj_character","path":"objects/obj_character/obj_character.yy",},"order":2,},
+    {"id":{"name":"obj_cloud_generator","path":"objects/obj_cloud_generator/obj_cloud_generator.yy",},"order":4,},
     {"id":{"name":"o_koyan_cam","path":"objects/o_koyan_cam/o_koyan_cam.yy",},"order":0,},
     {"id":{"name":"obj_dim","path":"objects/obj_dim/obj_dim.yy",},"order":0,},
+    {"id":{"name":"obj_cloud","path":"objects/obj_cloud/obj_cloud.yy",},"order":3,},
     {"id":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},"order":0,},
     {"id":{"name":"spr_character_left","path":"sprites/spr_character_left/spr_character_left.yy",},"order":1,},
+    {"id":{"name":"obj_shadow_surface","path":"objects/obj_shadow_surface/obj_shadow_surface.yy",},"order":5,},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},"order":0,},
   ],
   "Options": [
